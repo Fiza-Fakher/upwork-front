@@ -8,7 +8,7 @@ import {
 } from "../../constant";
 
 
-const API = import.meta.env.VITE_API_URL;
+const API = import.meta.env.VITE_API_BASE_URL;
 
 export default function ProposalGenerator() {
   const [formData, setFormData] = useState({
