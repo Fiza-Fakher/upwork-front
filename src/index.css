@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+@import "tailwindcss";
+
+* {
+    font-family: 'Inter', 'Space Grotesk', sans-serif;
+}
+:root{
+    --button:#6C46FF;
+    --primary:#FDFEFF;
+    --secondary:#F8FAFC;
+    --border:#E5E5E7;
+    --text:#374151;
+    --background:#E5FEEC;
+    --text-primary:#D1D5DB;
+}
